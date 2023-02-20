@@ -1,0 +1,13 @@
+package dev.hugomeza.airportdemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AirportDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
